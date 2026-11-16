@@ -1,4 +1,4 @@
-# CMF Tech Community
+# FMC
 
 We’re curious about how CMF devices work and what else we can do with them. We build open-source tools and share what we learn so others can build on it.
 
@@ -16,6 +16,6 @@ Our website is [fmc.tools](https://fmc.tools).
 
 ## Community
 
-We welcome new contributors across our projects. Code, design, device testing, and documentation all have a place here. We share findings and discuss ideas on [Discord](https://discord.gg/KnAFruMabJ).
+We welcome new contributors across our projects. Code, design, device testing, and documentation all have a place here. We share findings and discuss ideas on [FMC Community on Discord](https://discord.gg/KnAFruMabJ) and [r/CMFWatchMods](https://www.reddit.com/r/CMFWatchMods/).
 
 *We’re independent of CMF and Nothing.*
